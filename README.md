@@ -41,12 +41,12 @@ you can read more [here](https://brilliant.org/wiki/a-star-search/)
 
 ## Discussion
 
-* 1. The Node class :
+1. The Node class :
   Class Node represents a cell in the board of game.
   * A. I added the position attribute to the node class to make the navigation between the nodes more easier and knowing the actual position of the each node in the 2d grid .
   * B. the inform function :
   this function is used to fill the values of edge cost and position of each object node .
-* 2. The SearchAlgorithms class :
+2. The SearchAlgorithms class :
   * A. the attributes
   mazeBoard : this attribute holds the 2d maze matrix
   startNode : the first node in the path .
