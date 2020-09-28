@@ -1,4 +1,11 @@
 # A-algorithm
+## Prerequisites:
+1. Python 3.7
+2. python requests module `pip install requests`
+
+## Usage:
+`python A_star.py`
+
 ## Problem Definition 
 In this project, you are expected to solve a 2-D maze using A*. A maze is path
 typically from start node ‘S’ to Goal node ‘E’.
