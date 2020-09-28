@@ -6,6 +6,7 @@ typically from start node ‘S’ to Goal node ‘E’.
 ![maze1](https://github.com/KEROLIS/A-algorithm-/blob/master/A*/maze1.png)
 
 **Input :** 2D maze represented as a string.
+
 **Output:** the full path from Start node to End node (Goal Node), direct path to go from Start to End directly and Cost.
 
 **Maze: 'S,.,.,#,.,.,. .,#,.,.,.,#,. .,#,.,.,.,.,. .,.,#,#,.,.,.
