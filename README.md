@@ -1,7 +1,14 @@
 # A-algorithm
+
+## Installing
+
+Download the repo if you are using windos or open the terminal and type the fowllowing command to clone into the repo :
+```
+git clone https://github.com/KEROLIS/A-algorithm-.git
+
+```
 ## Prerequisites:
 1. Python 3.7
-2. python requests module `pip install requests`
 
 ## Usage:
 `python A_star.py`
