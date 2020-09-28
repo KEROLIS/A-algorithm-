@@ -1,18 +1,5 @@
 # -*- coding: utf-8 -*-
 from math import sqrt
-import numpy as np
-import pandas as pd
-from sklearn.datasets import load_breast_cancer
-from sklearn.model_selection import train_test_split
-from random import seed
-from random import randrange
-from csv import reader
-from math import sqrt
-import random
-r = random.Random()
-r.seed("AI")
-
-
 import math
 
 
