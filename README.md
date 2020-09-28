@@ -44,21 +44,21 @@ you can read more [here](https://brilliant.org/wiki/a-star-search/)
 There are many additions to the code :
 1. The Node class :
   Class Node represents a cell in the board of game.
-A. I added the position attribute to the node class to make the navigation between the nodes more easier and knowing the actual position of the each node in the 2d grid .
-B. the inform function :
+  * A. I added the position attribute to the node class to make the navigation between the nodes more easier and knowing the actual position of the each node in the 2d grid .
+ * B. the inform function :
   this function is used to fill the values of edge cost and position of each object node .
 2. The SearchAlgorithms class :
-A. the attributes
+ * A. the attributes
   mazeBoard : this attribute holds the 2d maze matrix
   startNode : the first node in the path .
   goalNode : the target node to reach in the grid .
   mazeHight : the length of the hight dimension at the maze matrix .
   MazeWidth : the length of the width dimension at the maze matrix .
-B. the constructor :
+ * B. the constructor :
   I used the list comprehension and the function split to turn the input string into 2 dimension array then get hight and width of the mazethen nested for loop to replace each value of the grid with a node object . Then calculate the heuristic for the first node in the grid .
-C. The getNode functions :
+ * C. The getNode functions :
   this functions works to return the the surrounded nodes by position and return the (#) if the position is out of the maze instead of padding the grid with (#)value.
-D. add_to_open function :
+ * D. add_to_open function :
   It checks if the neighbor node is not in open list .
   E. AstarManhattanHeuristic function :
   the main steps of the algorithm as mentioned above .
