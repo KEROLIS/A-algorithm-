@@ -7,7 +7,7 @@ typically from start node ‘S’ to Goal node ‘E’.
 
 **Input :** 2D maze represented as a string.
 
-**Output:** the full path from Start node to End node (Goal Node), direct path to go from Start to End directly and Cost.
+**Output :** the full path from Start node to End node (Goal Node), direct path to go from Start to End directly and Cost.
 
 **Maze: 'S,.,.,#,.,.,. .,#,.,.,.,#,. .,#,.,.,.,.,. .,.,#,#,.,.,.
 #,.,#,E,.,#,.'**
