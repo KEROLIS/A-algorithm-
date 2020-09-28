@@ -8,7 +8,7 @@ git clone https://github.com/KEROLIS/A-algorithm-.git
 
 ```
 ## Prerequisites:
-1. Python 3.7
+* Python 3.7
 
 ## Usage:
 `python A_star.py`
