@@ -2,7 +2,8 @@
 ## Problem Definition 
 In this project, you are expected to solve a 2-D maze using A*. A maze is path
 typically from start node ‘S’ to Goal node ‘E’.
-![maze1](/images/logo.png)
+
+![maze1](https://github.com/KEROLIS/A-algorithm-/blob/master/A*/maze1.png)
 
 **Input :** 2D maze represented as a string.
 **Output:** the full path from Start node to End node (Goal Node), direct path to go from Start to End directly and Cost.
@@ -10,7 +11,7 @@ typically from start node ‘S’ to Goal node ‘E’.
 **Maze: 'S,.,.,#,.,.,. .,#,.,.,.,#,. .,#,.,.,.,.,. .,.,#,#,.,.,.
 #,.,#,E,.,#,.'**
 
-![strmaze](/images/logo.png)
+![strmaze](https://github.com/KEROLIS/A-algorithm-/blob/master/A*/string%20maze.png)
 
 
 * Maze is a string, rows are separated by space and columns are separated by comma ‘,’.
@@ -35,7 +36,8 @@ applications in diverse problems, including the problem of
 parsing using stochastic grammars in NLP her cases include an
 Informational search with online learning.
 you can read more [here](https://brilliant.org/wiki/a-star-search/)
-![A](/images/logo.png)
+
+![A](https://github.com/KEROLIS/A-algorithm-/blob/master/A*/A.gif)
 
 ## Discussion
 
