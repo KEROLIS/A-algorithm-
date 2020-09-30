@@ -55,10 +55,7 @@ class Node:
 
 
 class SearchAlgorithms:
-    ''' * DON'T change Class, Function or Parameters Names and Order
-        * You can add ANY extra functions,
-          classes you need as long as the main
-          structure is left as is '''
+    
     path = []  # Represents the correct path from start node to the goal node.
     fullPath = []  # Represents all visited nodes from the start node to the goal node.
     totalCost = 0
